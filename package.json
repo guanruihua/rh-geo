@@ -18,6 +18,11 @@
     "json",
     "rh"
   ],
+  "bugs": "https://github.com/guanruihua/rh-geo/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:guanruihua/rh-geo.git"
+  },
   "author": "ruihuag",
   "license": "MIT"
 }
