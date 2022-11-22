@@ -1,0 +1,23 @@
+{
+  "name": "rh-geo",
+  "version": "0.1.0",
+  "description": "静态地图文件geo",
+  "main": "/",
+  "unpkg": "/",
+  "jsdelivr": "/",
+  "scripts": {
+    "build": "node config/build.js",
+    "dev": "nodemon config/build.js",
+    "patch": "npm version patch -f",
+    "pub": "npm publish",
+    "pub:patch": "npm run patch && npm run pub"
+  },
+  "keywords": [
+    "geo",
+    "js",
+    "json",
+    "rh"
+  ],
+  "author": "ruihuag",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+test/
+src/
+push.bat
+*.md
+.gitignore
+jest.config.ts
+tsconfig.json
+.eslint*
+.prettier*
+rollup.config.*
+md.ts
+node_modules/
+config/
