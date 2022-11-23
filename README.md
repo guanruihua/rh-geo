@@ -3,6 +3,12 @@
 > 开发可视化中需要用到的地图文件
 > 资源来源网络
 
+## 使用
+
+```js
+https://cdn.jsdelivr.net/npm/rh-geo@0.1.0/json/World.json
+```
+
 ## World
 
 - World.json
